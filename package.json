@@ -1,0 +1,12 @@
+{
+  "name": "global-state-react",
+  "version": "0.0.1",
+  "description": "A global state to react like vuex",
+  "main": "index.ts",
+  "author": "Nathan Feitoza",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
